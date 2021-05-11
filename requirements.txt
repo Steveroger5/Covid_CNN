@@ -3,4 +3,4 @@ tensorflow-cpu
 gunicorn
 numpy
 keras
-python==3.8
+python-3.8.0
