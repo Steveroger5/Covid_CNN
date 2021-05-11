@@ -1,6 +1,6 @@
 numpy
 pandas
-opencv
+opencv-python
 tensorflow
 keras
 Click==7.0
