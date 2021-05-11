@@ -4,7 +4,6 @@
 # In[1]:
 
 
-import pandas as pd
 import cv2
 import numpy as np
 from keras.models import load_model
