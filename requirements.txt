@@ -1,3 +1,4 @@
+opencv_python‑3.4.2‑cp37‑cp37m‑win32.whl
 Click==7.0
 flask
 gunicorn
@@ -7,5 +8,5 @@ MarkupSafe==1.1.1
 Werkzeug==0.15.6
 keras
 numpy
-opencv-python
+
 tensorflow-cpu
