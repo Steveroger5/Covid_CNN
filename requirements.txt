@@ -1,12 +1,5 @@
-opencv_python‑3.4.2‑cp37‑cp37m‑win32.whl
-Click==7.0
 flask
-gunicorn
-itsdangerous==1.1.0
-Jinja2==2.10.1
-MarkupSafe==1.1.1
-Werkzeug==0.15.6
-keras
-numpy
-
 tensorflow-cpu
+gunicorn
+numpy
+keras
