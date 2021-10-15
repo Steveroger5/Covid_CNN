@@ -1,4 +1,4 @@
-<h1>Covid Detection from Xrays Using Convolutional Neral Networks.</h1>
+<h1>Covid Detection from Xrays Using Convolutional Neural Networks.</h1>
 <img src="https://www.spiedigitallibrary.org/ContentImages/Journals/JMIOBU/8/S1/014001/WebImages/JMI_8_S1_014001_f005.png">
 <hr>
 <h2>Overview</h2>
