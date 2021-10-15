@@ -30,4 +30,28 @@ The traditional Methods of detecting covid 19 are slow and tedious and as have b
  </p>
  <hr>
  <h2>Screenshots of the project deployed</h2>
-
+ <b>1. UI for the homepage.</b><br>
+ <br><img src="./images/p1.png">
+ <b>2. Selecting the image for predicting.</b><br>
+ <br><img src="./images/p2.png">
+ <b>3. Output for covid positive image.</b><br>
+ <br><img src="./images/p3.png">
+ <b>4. Selecting the imhttps://github.com/Steveroger5age for predicting.</b><br>
+ <br><img src = "./images/p5.png">
+ <b>5. Output for covid negative image</b><br>
+ <br><img src = "./images/p4.png">
+ <hr>
+ <h2>Running the Project</h2>
+ <b>1. Accesing the website online</b><br>
+To access the website and check its working you can visit this link https://covid-detection-steveroger.herokuapp.com/<br>
+<b>2. Copying to local repository</b><br>
+In your terminal run the following commands :
+<br><br><b>
+git clone https://github.com/Steveroger5/Covid_CNN<br>
+cd Sentiment_Analysis<br>
+python app.py<br>
+Open https://localhost:3000<br></b>
+<hr>
+<h2>Contributors</h2>
+<a href="https://github.com/Steveroger5">Gagandeep Singh</a>
+<hr>
