@@ -13,5 +13,5 @@ The traditional Methods of detecting covid 19 are slow and tedious and as have b
 <b>Dataset : </b> Chest Xrays Dataset from kaggle.<br>
 <b>Libraries : </b> Python , Numpy , Pandas, NLTK , Sklearn , Node.js , Express.js.<br>
 <b>Frameworks : </b> VScode , jupyter Notebook , Heroku.<br>
-<b>Notebook For developing the Machine Learning model :</b><br>VScode , jupyter Notebook , Heroku.<br>
+<b>Notebook For developing the Machine Learning model :</b><br>Link : <span href = "https://colab.research.google.com/drive/1WB-6DCzp6Wv3xXvJTpaAkYZxM_Yy7L3f?usp=sharing">https://colab.research.google.com/drive/1WB-6DCzp6Wv3xXvJTpaAkYZxM_Yy7L3f?usp=sharing</span><br>
 </p>
